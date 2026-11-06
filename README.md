@@ -2,7 +2,7 @@
 
 Classic Pong Game built using Python Turtle
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/Somya6422/Pong_Game/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/somyaranjansahoo6422/Pong_Game/releases)
 
 ---
 
